@@ -7,4 +7,7 @@ public class HelloWorld {
         System.out.println("he11111111");
         System.out.println("he11111111");
     }
+    public void run(){
+        System.out.println("haldi");
+    }
 }
